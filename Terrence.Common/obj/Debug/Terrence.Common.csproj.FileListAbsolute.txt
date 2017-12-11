@@ -1,0 +1,9 @@
+E:\Projects\zwt\Terrence\Terrence\Terrence.Common\bin\Debug\Terrence.Common.dll
+E:\Projects\zwt\Terrence\Terrence\Terrence.Common\bin\Debug\Terrence.Common.pdb
+E:\Projects\zwt\Terrence\Terrence\Terrence.Common\obj\Debug\Terrence.Common.csprojResolveAssemblyReference.cache
+E:\Projects\zwt\Terrence\Terrence\Terrence.Common\obj\Debug\Terrence.Common.dll
+E:\Projects\zwt\Terrence\Terrence\Terrence.Common\obj\Debug\Terrence.Common.pdb
+D:\Dev\Repo\Terrence\Terrence.Common\bin\Debug\Terrence.Common.dll
+D:\Dev\Repo\Terrence\Terrence.Common\bin\Debug\Terrence.Common.pdb
+D:\Dev\Repo\Terrence\Terrence.Common\obj\Debug\Terrence.Common.dll
+D:\Dev\Repo\Terrence\Terrence.Common\obj\Debug\Terrence.Common.pdb

@@ -1,0 +1,8 @@
+E:\Projects\zwt\Terrence\Terrence\Terrence.IService\bin\Debug\Terrence.IService.dll
+E:\Projects\zwt\Terrence\Terrence\Terrence.IService\bin\Debug\Terrence.IService.pdb
+E:\Projects\zwt\Terrence\Terrence\Terrence.IService\obj\Debug\Terrence.IService.dll
+E:\Projects\zwt\Terrence\Terrence\Terrence.IService\obj\Debug\Terrence.IService.pdb
+D:\Dev\Repo\Terrence\Terrence.IService\bin\Debug\Terrence.IService.dll
+D:\Dev\Repo\Terrence\Terrence.IService\bin\Debug\Terrence.IService.pdb
+D:\Dev\Repo\Terrence\Terrence.IService\obj\Debug\Terrence.IService.dll
+D:\Dev\Repo\Terrence\Terrence.IService\obj\Debug\Terrence.IService.pdb
